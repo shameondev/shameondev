@@ -8,6 +8,7 @@
 - 🚀 Currently working on my site as my workshop to try new things.
 - 🤗 Fun fact about me: sometimes I can code a whole CSS grid without googling the syntax. But not today :D
 - ✉️ You can shoot me an email at [fadeevd@me.com](mailto:fadeevd@me.com).
+- 📋 If you need my CV, you can grab it [here](https://drive.google.com/file/d/1h7NwWtrwc_M6MsdWYcoppRzAQFPcxo1c/view?usp=sharing).
 
 ## Core knowledges:
 ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
