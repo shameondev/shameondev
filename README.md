@@ -29,7 +29,6 @@
 ![less](https://img.shields.io/badge/less%20-%23323330.svg?&style=for-the-badge&logo=less&logoColor=%23F7DF1E)
 
 ## I'm currently working on:
-- [My Web Workshop](https://www.fadeev.work) and blog in future.
 - Exploring [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) as part of my Computer Science learning path.
 - Practising alghoritms on [Codewars](https://www.codewars.com/users/shameondev)
 
