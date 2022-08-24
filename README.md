@@ -10,18 +10,16 @@
 
 ## Core knowledges:
 ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![html](https://img.shields.io/badge/html%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=%23F7DF1E)
-![css](https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=%23F7DF1E)
-![git](https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=%23F7DF1E)
-
-## Technologies I've been learning and using so far:
 ![react](https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%23F7DF1E)
 ![typscript](https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)
+![html](https://img.shields.io/badge/html%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=%23F7DF1E)
+![css](https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=%23F7DF1E)
+
+## Technologies I've been learning and using so far:
 ![graphql](https://img.shields.io/badge/graphql%20-%23323330.svg?&style=for-the-badge&logo=graphql&logoColor=%23F7DF1E)
 ![docker](https://img.shields.io/badge/docker%20-%23323330.svg?&style=for-the-badge&logo=docker&logoColor=%23F7DF1E)
 ![webpack](https://img.shields.io/badge/webpack%20-%23323330.svg?&style=for-the-badge&logo=webpack&logoColor=%23F7DF1E)
 ![github](https://img.shields.io/badge/github%20-%23323330.svg?&style=for-the-badge&logo=github&logoColor=%23F7DF1E)
-
 ![eslint](https://img.shields.io/badge/eslint%20-%23323330.svg?&style=for-the-badge&logo=eslint&logoColor=%23F7DF1E)
 ![prettier](https://img.shields.io/badge/prettier%20-%23323330.svg?&style=for-the-badge&logo=prettier&logoColor=%23F7DF1E)
 ![less](https://img.shields.io/badge/less%20-%23323330.svg?&style=for-the-badge&logo=less&logoColor=%23F7DF1E)
