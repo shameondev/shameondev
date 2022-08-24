@@ -3,10 +3,10 @@
 ## About me:
 - 🇷🇺 Currently I live in Moscow, Russia.
 - 🧑‍💻 I'm a React developer at [Sber](https://www.sberbank.com/ru).
-- 🧑‍🏫 Student of [21 Programming School](https://www.21-school.ru).
+- 🧑‍🏫 Graduate of [21 Programming School](https://www.21-school.ru).
+- 🧑‍🏫 Student of [Yandex.Practicum](https://practicum.yandex.ru/).
 - 🤖 Most of the time I'm writing on Typescript.
 - ✉️ You can shoot me an email at [shameondev@gmail.com](mailto:shameondev@gmail.com).
-- 📋 If you need my CV, you can grab it [here](https://drive.google.com/file/d/1h7NwWtrwc_M6MsdWYcoppRzAQFPcxo1c/view?usp=sharing).
 
 ## Core knowledges:
 ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
