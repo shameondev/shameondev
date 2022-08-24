@@ -2,12 +2,10 @@
 
 ## About me:
 - 🇷🇺 Currently I live in Moscow, Russia.
-- 🧑‍💻 I'm an intern developer at [Sber](https://www.sberbank.com/ru).
+- 🧑‍💻 I'm a React developer at [Sber](https://www.sberbank.com/ru).
 - 🧑‍🏫 Student of [21 Programming School](https://www.21-school.ru).
-- 🤖 Most of the time I'm writing on JavaScript.
-- 🚀 Currently working on my site as my workshop to try new things.
-- 🤗 Fun fact about me: sometimes I can code a whole CSS grid without googling the syntax. But not today :D
-- ✉️ You can shoot me an email at [fadeevd@me.com](mailto:fadeevd@me.com).
+- 🤖 Most of the time I'm writing on Typescript.
+- ✉️ You can shoot me an email at [shameondev@gmail.com](mailto:shameondev@gmail.com).
 - 📋 If you need my CV, you can grab it [here](https://drive.google.com/file/d/1h7NwWtrwc_M6MsdWYcoppRzAQFPcxo1c/view?usp=sharing).
 
 ## Core knowledges:
@@ -37,4 +35,3 @@
 ## Get in touch with me:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniil-fadeev-99103ba9)](https://www.linkedin.com/in/daniil-fadeev-99103ba9)
 [![Chat On Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/defadeev)
-[![My Workshop](https://img.shields.io/badge/-My%20Web%20Workshop-orange)](https://fadeev.work)
