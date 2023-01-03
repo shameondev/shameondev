@@ -1,12 +1,13 @@
 # Hi there 👋 I'm Daniil
 
 ## About me:
-- 🇷🇺 Currently I live in Moscow, Russia.
-- 🧑‍💻 I'm a React developer at [Sber](https://www.sberbank.com/ru).
-- 🧑‍🏫 Graduate of [21 Programming School](https://www.21-school.ru).
-- 🧑‍🏫 Student of [Yandex.Practicum](https://practicum.yandex.ru/).
-- 🤖 Most of the time I'm writing on Typescript.
-- ✉️ You can shoot me an email at [shameondev@gmail.com](mailto:shameondev@gmail.com).
+- 🇦🇪 Currently in Dubai.
+- I'm a React developer at [Sber](https://www.sberbank.com/ru).
+- Contributor at at [Timestripe](https://www.timestripe.com).
+- Graduate of [21 Programming School](https://www.21-school.ru).
+- Student of [Yandex.Practicum](https://practicum.yandex.ru/).
+- Most of the time I'm writing on Typescript.
+- You can shoot me an email at [shameondev@gmail.com](mailto:shameondev@gmail.com).
 
 ## Core knowledges:
 ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
