@@ -3,7 +3,7 @@
 ## About me:
 - 🇦🇪 Currently in Dubai.
 - I'm a React developer at [Sber](https://www.sberbank.com/ru).
-- Contributor at at [Timestripe](https://www.timestripe.com).
+- Contributor at [Timestripe](https://www.timestripe.com).
 - Graduate of [21 Programming School](https://www.21-school.ru).
 - Student of [Yandex.Practicum](https://practicum.yandex.ru/).
 - Most of the time I'm writing on Typescript.
