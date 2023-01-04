@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Daniil
 
 ## About me:
-- 🇦🇪 Currently in Dubai.
+- Location: Europe.
 - I'm a React developer at [Sber](https://www.sberbank.com/ru).
 - Contributor at [Timestripe](https://www.timestripe.com).
 - Graduate of [21 Programming School](https://www.21-school.ru).
