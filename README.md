@@ -2,10 +2,10 @@
 
 ## About me:
 - Location: Europe.
-- I'm a React developer at [Sber](https://www.sberbank.com/ru).
+- I'm a Software engineer at [Zulip](https://zulip.com/).
 - Contributor at [Timestripe](https://www.timestripe.com).
 - Graduate of [21 Programming School](https://www.21-school.ru).
-- Student of [Yandex.Practicum](https://practicum.yandex.ru/).
+- Graduate of [Yandex.Practicum](https://practicum.yandex.ru/).
 - Most of the time I'm writing on Typescript.
 - You can shoot me an email at [shameondev@gmail.com](mailto:shameondev@gmail.com).
 
