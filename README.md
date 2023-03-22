@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Daniil
 
 ## About me:
-- Location: Europe.
+- Location: Dubai.
 - I'm a Software engineer at [Zulip](https://zulip.com/).
 - Contributor at [Timestripe](https://www.timestripe.com).
 - Graduate of [21 Programming School](https://www.21-school.ru).
