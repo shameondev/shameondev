@@ -1,14 +1,7 @@
-# Hi there 👋 I'm Daniil
+### Hey, I'm Dan
 
-## About me:
-- Location: Dubai.
-- I'm a Software engineer at [Zulip](https://zulip.com/).
-- Contributor at [Timestripe](https://www.timestripe.com).
-- Graduate of [21 Programming School](https://www.21-school.ru).
-- Graduate of [Yandex.Practicum](https://practicum.yandex.ru/).
-- Most of the time I'm writing on Typescript.
-- You can shoot me an email at [shameondev@gmail.com](mailto:shameondev@gmail.com).
+I'm a Software Engineer based in Europe, working at [Zulip](https://zulip.com/). In addition to my main role, I'm also a contributor at [Timestripe](https://www.timestripe.com).
 
-## Get in touch with me:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniil-fadeev-99103ba9)](https://www.linkedin.com/in/daniil-fadeev-99103ba9)
-[![Chat On Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/defadeev)
+My education includes graduation from both [42](https://42.fr/en/homepage/) and [Yandex.Practicum](https://practicum.yandex.ru/).
+
+Feel free to shoot me an email at [shameondev@gmail.com](mailto:shameondev@gmail.com).
