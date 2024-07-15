@@ -1,6 +1,6 @@
 ### Hey, I'm Dan
 
-I'm a Software Engineer based in Europe and I'm currently looking for a job.
+I'm a Software Engineer.
 
 I've worked at [Zulip](https://zulip.com/), [Sber](https://sberbank.com), and [Timestripe](https://timestripe.com/onboarding/).
 
